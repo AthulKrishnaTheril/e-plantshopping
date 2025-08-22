@@ -50,6 +50,6 @@ To get the project up and running on your local machine, follow these simple ste
     npm run preview
     ```
 
-## 📝 License
+##  License
 
 This project is licensed under the MIT License.# coding-project-template
